@@ -1,0 +1,10 @@
+C:\Users\nayr'b\Desktop\CodingDojo\CSharp_stack\chefs_dishes\obj\Debug\netcoreapp2.0\chefs_dishes.csproj.CoreCompileInputs.cache
+C:\Users\nayr'b\Desktop\CodingDojo\CSharp_stack\chefs_dishes\obj\Debug\netcoreapp2.0\chefs_dishes.AssemblyInfoInputs.cache
+C:\Users\nayr'b\Desktop\CodingDojo\CSharp_stack\chefs_dishes\obj\Debug\netcoreapp2.0\chefs_dishes.AssemblyInfo.cs
+C:\Users\nayr'b\Desktop\CodingDojo\CSharp_stack\chefs_dishes\bin\Debug\netcoreapp2.0\chefs_dishes.deps.json
+C:\Users\nayr'b\Desktop\CodingDojo\CSharp_stack\chefs_dishes\bin\Debug\netcoreapp2.0\chefs_dishes.runtimeconfig.json
+C:\Users\nayr'b\Desktop\CodingDojo\CSharp_stack\chefs_dishes\bin\Debug\netcoreapp2.0\chefs_dishes.runtimeconfig.dev.json
+C:\Users\nayr'b\Desktop\CodingDojo\CSharp_stack\chefs_dishes\bin\Debug\netcoreapp2.0\chefs_dishes.dll
+C:\Users\nayr'b\Desktop\CodingDojo\CSharp_stack\chefs_dishes\bin\Debug\netcoreapp2.0\chefs_dishes.pdb
+C:\Users\nayr'b\Desktop\CodingDojo\CSharp_stack\chefs_dishes\obj\Debug\netcoreapp2.0\chefs_dishes.dll
+C:\Users\nayr'b\Desktop\CodingDojo\CSharp_stack\chefs_dishes\obj\Debug\netcoreapp2.0\chefs_dishes.pdb
